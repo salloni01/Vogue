@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+  <center><h1>Login</h1></center>
+  <form name="Login" action="#" method="" >
+    <table align="center" bgcolor="pink">
+        <tr><td> Username </td></tr>
+        <tr><td><input type="text" name="username" size="100" placeholder="Enter Username" required></td></tr>
+         <tr><td> Password </td></tr>
+        <tr><td><input type="password" name="password" size="100" placeholder="Enter Password" required></td></tr>
+         <tr><td><input type="submit" value="login" ></td></tr>
+          <tr><td><input type="checkbox" checked="checked" > Show</td></tr>
+           <tr><td>  If Not Register <a href="#"> Create an account </a></td></tr>
+    </table>
+  </form> 
+   <center><h2><i><u><big>        About Us              </big></u></i></h2></center>
+    <i><big>at voguevistaa, we believe fashion should feel like you.Our ai picks outfits for your own wardrobe that match your tone, fit your mood, and suit every moment - from chill to glam</big></i>
+    <img src="dress.jpeg"/>    
+    <hr>
+    <pre><h2><i>VougeVistaa                                           HOME  &nbsp; <b><a href="/MY WARDROBE.html">MY WARDROBE</a></b>           <b><a href="/AI SECTION.html"> AI SECTION</b></a> &nbsp; SKIN TONE SCAN &nbsp; NEARBY SHOPS</i></h2>
+    <hr>
+    
+      
+</body>
+</html>
